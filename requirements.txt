@@ -1,0 +1,8 @@
+streamlit==1.16.0
+langchain_nvidia_ai_endpoints==0.0.5
+langchain_community==0.0.12
+python-dotenv==0.19.2
+gtts==2.2.3
+yake==0.4.8
+torch==1.10.0
+sentencepiece==0.1.96
