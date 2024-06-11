@@ -8,3 +8,4 @@ sentencepiece==0.1.96
 wheel
 faiss-cpu
 openai
+faiss
