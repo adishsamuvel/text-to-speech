@@ -9,3 +9,4 @@ wheel
 langchain
 pypdf
 faiss-cpu
+faiss-gpu
